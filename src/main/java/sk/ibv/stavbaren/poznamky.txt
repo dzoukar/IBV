@@ -1,0 +1,20 @@
+model - třídy a entity představující přepravce
+service - logika zpracování a výpočtu ceny přepravy
+repository - práca s databázou
+controller - API pre komunikaci
+util - třídy pro částečné potřeby pro jiné
+
+Branch:
+1.) main
+2.) develop
+3.) feature
+4.) bugfix
+5.) release
+6.) hotfix
+
+main - obsahuje hlavný, stabilný kód, ktorý je pripravený na nasadenie alebo distribúciu
+develop - kód v tejto vetve je ešte vo fáze vývoja, takže nie je stabilný
+feature - používa sa na vývoj nových funkcií alebo zlepšení
+bugfix - vetva je zameraná na opravu chýb
+release - slúži pre novú verziu
+hotfix - je určená na urgentné opravy v produkčnom kóde
